@@ -1,0 +1,45 @@
+.github  {
+    height: 50px;
+    width: 50px;
+    padding-left: 80%;
+    
+}
+
+.owl_logo {
+    height: 50px;
+    width: 50px;
+} 
+
+h1 {
+    background-color: rgb(81, 123, 126);
+}
+h1 {
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p {
+     margin-left: 25%;
+     margin-right: 25%;
+}
+
+div {
+    width: 125px;
+    border: 15px solid rgb(81, 123, 126);
+     margin: auto;
+  }
+
+.my-pic {
+    height: 160px;
+    width: 125px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+p {
+    margin-left: ;
+}
+
